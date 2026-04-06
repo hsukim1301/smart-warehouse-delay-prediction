@@ -1,0 +1,16 @@
+# Data files
+data/
+*.csv
+*.zip
+*.7z
+*.rar
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
