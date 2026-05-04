@@ -1,0 +1,10 @@
+lightgbm
+xgboost==3.2.0
+catboost
+pytorch-tabnet
+torch
+scikit-learn
+pandas
+numpy
+optuna
+scipy
